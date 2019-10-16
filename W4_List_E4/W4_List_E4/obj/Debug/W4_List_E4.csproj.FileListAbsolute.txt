@@ -1,0 +1,7 @@
+C:\Users\Juha\source\repos\W4_List_E4\W4_List_E4\obj\Debug\W4_List_E4.csprojAssemblyReference.cache
+C:\Users\Juha\source\repos\W4_List_E4\W4_List_E4\obj\Debug\W4_List_E4.csproj.CoreCompileInputs.cache
+C:\Users\Juha\source\repos\W4_List_E4\W4_List_E4\bin\Debug\W4_List_E4.exe.config
+C:\Users\Juha\source\repos\W4_List_E4\W4_List_E4\bin\Debug\W4_List_E4.exe
+C:\Users\Juha\source\repos\W4_List_E4\W4_List_E4\bin\Debug\W4_List_E4.pdb
+C:\Users\Juha\source\repos\W4_List_E4\W4_List_E4\obj\Debug\W4_List_E4.exe
+C:\Users\Juha\source\repos\W4_List_E4\W4_List_E4\obj\Debug\W4_List_E4.pdb

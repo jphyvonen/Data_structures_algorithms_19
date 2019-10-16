@@ -1,0 +1,7 @@
+C:\Users\Juha\source\repos\W3_Sorting_E6\W3_Sorting_E6\bin\Debug\W3_Sorting_E6.exe.config
+C:\Users\Juha\source\repos\W3_Sorting_E6\W3_Sorting_E6\bin\Debug\W3_Sorting_E6.exe
+C:\Users\Juha\source\repos\W3_Sorting_E6\W3_Sorting_E6\bin\Debug\W3_Sorting_E6.pdb
+C:\Users\Juha\source\repos\W3_Sorting_E6\W3_Sorting_E6\obj\Debug\W3_Sorting_E6.csprojAssemblyReference.cache
+C:\Users\Juha\source\repos\W3_Sorting_E6\W3_Sorting_E6\obj\Debug\W3_Sorting_E6.csproj.CoreCompileInputs.cache
+C:\Users\Juha\source\repos\W3_Sorting_E6\W3_Sorting_E6\obj\Debug\W3_Sorting_E6.exe
+C:\Users\Juha\source\repos\W3_Sorting_E6\W3_Sorting_E6\obj\Debug\W3_Sorting_E6.pdb

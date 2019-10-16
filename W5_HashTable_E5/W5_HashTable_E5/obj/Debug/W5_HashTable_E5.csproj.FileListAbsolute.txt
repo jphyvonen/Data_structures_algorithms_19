@@ -1,0 +1,7 @@
+C:\Users\Juha\source\repos\W5_HashTable_E5\W5_HashTable_E5\bin\Debug\W5_HashTable_E5.exe.config
+C:\Users\Juha\source\repos\W5_HashTable_E5\W5_HashTable_E5\bin\Debug\W5_HashTable_E5.exe
+C:\Users\Juha\source\repos\W5_HashTable_E5\W5_HashTable_E5\bin\Debug\W5_HashTable_E5.pdb
+C:\Users\Juha\source\repos\W5_HashTable_E5\W5_HashTable_E5\obj\Debug\W5_HashTable_E5.csprojAssemblyReference.cache
+C:\Users\Juha\source\repos\W5_HashTable_E5\W5_HashTable_E5\obj\Debug\W5_HashTable_E5.csproj.CoreCompileInputs.cache
+C:\Users\Juha\source\repos\W5_HashTable_E5\W5_HashTable_E5\obj\Debug\W5_HashTable_E5.exe
+C:\Users\Juha\source\repos\W5_HashTable_E5\W5_HashTable_E5\obj\Debug\W5_HashTable_E5.pdb
